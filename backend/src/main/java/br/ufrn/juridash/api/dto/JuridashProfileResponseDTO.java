@@ -8,6 +8,3 @@ public record JuridashProfileResponseDTO(
     String specialtyArea,
     AccountResponseDTO account
 ) {}
-
-// Apenas para alinhar com o core (pode reaproveitar o mesmo record se já existir no pacote de DTOs comuns)
-record AccountResponseDTO(UUID id, String name, String email) {}
