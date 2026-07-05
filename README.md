@@ -1,4 +1,6 @@
-"# Juridash" 
+# Juridash
+
+Aplicação 3 feita com o framework desenvolvido na matéria de engenharia de software
 
 cd frontend
 npm run dev
